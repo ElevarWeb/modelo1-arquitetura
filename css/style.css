@@ -344,8 +344,12 @@ footer {
         flex-direction: column;
     }
 
+     .footer-form form .form-group .input-name {
+        margin-right: 0px;
+    }
+
     .input-email {
-        width: 96%;
+        width: 100%;
         margin-top: 20px;
     }
 
