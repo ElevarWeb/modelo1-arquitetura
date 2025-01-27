@@ -173,13 +173,13 @@ section.home-portfolio {
 }
 
 section.home-sobre {
-    padding-top: 50px;
+    margin-top: 50px;
+    background: var(--color-1);
 }
 
 .home-sobre-cont {
     display: flex;
     align-items: center;
-    background: var(--color-1);
 }
 
 .home-sobre-img {
